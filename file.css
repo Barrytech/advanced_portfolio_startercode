@@ -1,3 +1,25 @@
 body{
     background-image: url("https://www.google.com/search?q=software+development+images&tbm=isch&tbs=rimg:CXg67LdWki1RIji9sTLNcc4HAt8-GHa2eKw7yYuoLzev4gdN7SQxwC_1DNzU7Gx8IfeGuM5Uv9La7G5SuSnz8hmH0YCoSCb2xMs1xzgcCESqECrCdcYDJKhIJ3z4YdrZ4rDsR50XRlpk978AqEgnJi6gvN6_1iBxElMksq9EBTuCoSCU3tJDHAL8M3EeJSWgX5O3IxKhIJNTsbHwh94a4Rzj4iyriDQMoqEgkzlS_10trsblBHvBURLY17rJCoSCa5KfPyGYfRgEVoOq6CKEKQK&tbo=u&sa=X&ved=0ahUKEwiappmZoMLXAhWJ7yYKHT3qBGMQ9C8IHw&biw=1366&bih=629&dpr=1#imgdii=vfo0RmZHkT5_xM:&imgrc=6Nl-4zZEf9TeqM:");
 }
+h1{
+    text-align: center;
+    font-weight: bolder;
+    color: yellow;
+    font-style: italic;
+}
+ #imgprof{
+ 
+ height: 125px;
+ width: 100px;
+ background-image: url('images/profile.JPG');
+}
+.image-rounded{
+    width:100px;
+    height:100px;
+}
+h2{
+    text-align: center;
+}
+#hamburger{
+    size: 100px;
+}

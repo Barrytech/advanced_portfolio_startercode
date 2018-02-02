@@ -1,3 +1,30 @@
 h1{
     text-align: center;
+    font-weight: bolder;
 }
+h2{
+    text-align: center;
+    font-weight: bold;
+    font-family: Times;
+    font-style: italic;
+}
+
+#contain{
+     border:solid;
+    height: 1000px;
+    position: relative;
+}
+.thumbnail{
+    border-color: blue;
+    border: solid;
+    height: 300px;
+     padding: 5px;
+}
+#rock{
+    background-image: url("https://lh3.googleusercontent.com/Xl1GCimlqnNSXi5y3SujUrZNXVp0_Ffy9B0zqU8B0U-0u08r-tGvpZv4-vkd8e8fXMU=h310")
+}
+#hanggame{
+    background-image: url("https://www.educationalappstore.com/images/upload/mzl.mnlismkq.png");
+}
+
+

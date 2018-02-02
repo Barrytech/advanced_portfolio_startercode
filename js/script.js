@@ -17,6 +17,17 @@
 
 
 // Create your potrfolio object representation below
+  /* <div class="row">
+            <div class="col-md-5"></div>
+            <div id="profile" class="col-md-2">
+                <a id="imgprof" class="thumbnail" href="#">
+                    <img class="img-rounded" src="images/profile.JPG" >
+                </a>
+            </div>
+            <div class="col-md-5"></div>
+        </div> */
+        
+        
 
 
 

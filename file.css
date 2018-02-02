@@ -23,3 +23,8 @@ h2{
 #hamburger{
     size: 100px;
 }
+
+#aboutlink:hover{
+    background-color: black;
+    
+}

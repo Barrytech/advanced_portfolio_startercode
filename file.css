@@ -51,4 +51,12 @@ a:hover{
  .navbar .navbar-nav li a:hover {
    color: #15C2D2;
  }
- 
+ #me{
+     width:250px;
+     height:150px;
+ }
+ #presenteme{
+     border:solid;
+     border-color: blue;
+     
+ }

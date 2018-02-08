@@ -53,10 +53,16 @@ a:hover{
  }
  #me{
      width:250px;
-     height:150px;
+     height:320px;
+     background-color: orange;
  }
- #presenteme{
+ #thumMe{
+ background-color: orange;
+ border-color: orange;
+     
+ }
+ #presentme{
      border:solid;
      border-color: blue;
-     
+     background-image: url("https://www.ox.ac.uk/sites/files/oxford/styles/ow_large_feature/public/field/field_image_main/GAF%20DPhil%20Computer%20Science%20SUPP.jpg?itok=qSnasb1J");
  }

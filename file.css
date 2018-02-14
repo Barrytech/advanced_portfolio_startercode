@@ -28,7 +28,7 @@ h2{
 #hamburger{
     size: 100px;
 }
-a:hover{
+bold:hover{
     background-color: turquoise;
     
 }
@@ -52,7 +52,7 @@ a:hover{
  }
  #me{
      width:250px;
-     height:320px;
+     height:300px;
      background-color: orange;
  }
  #thumMe{
@@ -62,7 +62,8 @@ a:hover{
  }
  #presentme{
      border:solid;
-     border-color: blue;
+     border-color: orange;
+     
  }
  a{
      color: green;

@@ -38,7 +38,7 @@ ul {
 }
 
 li a {
-    list-style: none;
+    list-style: non;
     text-align: center;
     display: block;
     color: #000;
